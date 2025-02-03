@@ -19,9 +19,7 @@ calculate frequency of occurence
 Step5:
 print the characters and its huffmancode
 ## Program:
-DEVELOPED BY: SABARI AKASH A
 
-REGISTER NO: 212222230124
 # Get the input String
 ```py
 string = 'DIGITAL IMAGE'
